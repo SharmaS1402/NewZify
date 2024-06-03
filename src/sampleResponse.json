@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Washington Post",
+      "title": "Aid group suspends main Rafah kitchen over 'ongoing attacks' - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA1LzI5L2lzcmFlbC1oYW1hcy13YXItbmV3cy1nYXphLXBhbGVzdGluZS1yYWZhaC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-29T12:45:57Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Michael E. Ruane",
+      "title": "Giant pandas are returning to D.C.'s National Zoo. Meet Bao Li and Qing Bao. - The Washington Post",
+      "description": "D.C.’s National Zoo said China has agreed to lease it two new pandas — Bao Li, 2, a male, and Qing Bao, 2, a female. They are set to arrive later this year.",
+      "url": "https://www.washingtonpost.com/dc-md-va/2024/05/29/dc-new-giant-pandas-national-zoo-china/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTADX63HWRF27HXWO4AC3YXJKI.jpg&w=1440",
+      "publishedAt": "2024-05-29T12:04:37Z",
+      "content": "Giant pandas are coming back to Washington.\r\nThe Smithsonians National Zoo announced Wednesday that two new giant pandas Bao Li, 2, a male, and Qing Bao, 2, a female will be arriving from China later… [+11494 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Sean Conlon",
+      "title": "5 things to know before the stock market opens Wednesday - CNBC",
+      "description": "Here are the most important news items that investors need to start their trading day.",
+      "url": "https://www.cnbc.com/2024/05/29/5-things-to-know-before-the-stock-market-opens-wednesday-may-29.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107414674-1715697985088-gettyimages-2152909892-wallstl424174_porgcrnk.jpeg?v=1716931828&w=1920&h=1080",
+      "publishedAt": "2024-05-29T11:34:43Z",
+      "content": "Here are the most important news items that investors need to start their trading day:\r\n1. Raising the bar\r\nThe Nasdaq Composite closed up 0.59% for Tuesday's trading session, crossing the threshold … [+3969 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Summer 2024: Temperatures cross 50C in northern India - BBC.com",
+      "description": "Several parts of northern and central India have recorded soaring temperatures this summer.",
+      "url": "https://www.bbc.com/news/articles/c166xxd4y36o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9cfd/live/0d34ba70-1d85-11ef-80aa-699d54c46324.jpg",
+      "publishedAt": "2024-05-29T11:27:44Z",
+      "content": "Meryl Sebastian,BBC News, Kochi\r\nIndia's weather office has issued a severe heatwave alert for parts of Indian capital Delhi\r\nTemperatures have crossed 50C (120F) in parts of northern and central Ind… [+1666 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "ConocoPhillips to Acquire Marathon Oil in $17 Billion Deal - Yahoo Finance",
+      "description": null,
+      "url": "https://finance.yahoo.com/news/conocophillips-acquire-marathon-oil-22-110225775.html",
+      "urlToImage": null,
+      "publishedAt": "2024-05-29T11:25:09Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "MICHAEL R. SISAK, JENNIFER PELTZ, ERIC TUCKER, JILL COLVIN",
+      "title": "Trump hush money trial: Jury begin deliberations after marathon closing arguments - The Associated Press",
+      "description": "Jurors in Donald Trump’s New York hush money trial are expected to begin deliberations after receiving instructions from the judge on the law and the factors they may consider as they strive to reach a verdict in the first criminal case against a former Ameri…",
+      "url": "https://apnews.com/article/trump-trial-deliberations-jury-judge-verdict-390f045e9e8a37f069e82576edd7a842",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fde02a1/2147483647/strip/true/crop/2653x1492+0+138/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F7c%2F6d4b15a4af1502f19bc62015db1f%2Fd8a7d9807b514e379f6ffddbacec8600",
+      "publishedAt": "2024-05-29T11:24:00Z",
+      "content": "NEW YORK (AP) Jurors in Donald Trumps hush money trial are expected to begin deliberations Wednesday after receiving instructions from the judge on the law and the factors they may consider as they s… [+7520 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Minneapolis Star Tribune" },
+      "author": "Jerry Zgoda, Star Tribune",
+      "title": "Ten clutch points: Timberwolves stars deliver, Luca Doncic doesn't, Charles Barkley has the weather - Star Tribune",
+      "description": "The Timberwolves kept the playoffs alive in large measure because the players expected to carry them came through — and Mavericks superstar Luka Doncic said that he didn't",
+      "url": "https://www.startribune.com/anthony-edwards-karl-anthony-towns-western-conference-finals-charles-barkley-snowy-minnesota/600369322/",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/KC3R4CJPZJDOXPBWM3KL3HYENE.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-05-29T11:15:00Z",
+      "content": "1. Wolves hold off elimination, force Game 5 Thursday at home\r\nKnocked down in the fourth quarter of their first three Western Conference final games against Dallas, the Timberwolves star tag-team st… [+6313 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Gabrielle Fonrouge",
+      "title": "Dick's Sporting Goods raises guidance, says shoppers are spending more on sneakers and athletic gear - CNBC",
+      "description": "Dick's Sporting Goods saw sales grow well ahead of estimates, following behind other retailers that said consumers are spending on new clothes and shoes.",
+      "url": "https://www.cnbc.com/2024/05/29/dicks-sporting-goods-dks-earnings-q1-2024.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107420747-1716911651111-gettyimages-1268840848-a09i7672_20200826121350416.jpeg?v=1716911714&w=1920&h=1080",
+      "publishedAt": "2024-05-29T11:02:03Z",
+      "content": "Dick's Sporting Goods on Wednesday said customers are spending more on new sneakers and athletic gear, leading the retailer to raise its full-year earnings guidance. \r\nThe company's shares jumped abo… [+3194 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Frances Vinall",
+      "title": "Babies exposed to peanuts less likely to be allergic years later, study says - The Washington Post",
+      "description": "An author of the study said the correlation was “extraordinary.” She advised parents that “plain old peanut butter mixed in warm water can work for a 4-month-old.”",
+      "url": "https://www.washingtonpost.com/health/2024/05/29/peanut-allergy-baby-infants/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CF622SDBXQ26AVL24WAZ4S6HHM_size-normalized.JPG&w=1440",
+      "publishedAt": "2024-05-29T10:58:00Z",
+      "content": "Children who consume peanut products from infancy are significantly less likely to develop peanut allergies by early adolescence, according to a study published Tuesday in the journal NEJM Evidence.\r… [+177 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Nika Shakhnazarova",
+      "title": "'General Hospital' star Johnny Wactor's family doesn't want his ex-fiancée Tessa Farrell speaking on LA murder - New York Post ",
+      "description": "In a video Tuesday, Farrell broke down in tears over the “General Hospital” star’s death, slamming the gunmen for shooting “the wrong guy.”",
+      "url": "https://nypost.com/2024/05/29/us-news/general-hospital-star-johnny-wactors-family-doesnt-want-his-ex-fiancee-tessa-farrell-speaking-on-la-murder/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/82852156.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-05-29T10:32:00Z",
+      "content": "Johnny Wactor’s mother doesn’t want his ex-fiancée Tessa Farrell to speak out about his murder following her emotional plea, claiming the pair hadn’t spoken in years. \r\nThe “General Hospital” star, 3… [+2316 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Exclusive: A federal grand jury may soon hear from Sean ‘Diddy’ Combs’ accusers - CNN",
+      "description": "Federal investigators are preparing to bring accusers of music mogul Sean “Diddy” Combs before a federal grand jury, two sources familiar with the probe tell CNN — signaling the US Justice Department is moving towards possibly seeking an indictment of Combs.",
+      "url": "https://www.cnn.com/2024/05/29/entertainment/sean-diddy-combs-federal-investigation/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2017-05-02t120000z-842525135-hp1ed52032brw-rtrmadp-3-fashion-metgala.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-29T10:25:00Z",
+      "content": "Federal investigators are preparing to bring accusers of music mogul Sean Diddy Combs before a federal grand jury, two sources familiar with the probe tell CNN signaling the US Justice Department is … [+5986 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Matias Grez",
+      "title": "Caitlin Clark makes WNBA history in Indiana Fever loss to Los Angeles Sparks - CNN",
+      "description": "The Indiana Fever’s early season woes continued Tuesday with an 88-82 defeat to the Los Angeles Sparks, but Caitlin Clark produced a historic performance.",
+      "url": "https://www.cnn.com/2024/05/29/sport/caitlin-clark-wnba-history-indiana-fever-sparks-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2154550647.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-29T10:17:00Z",
+      "content": "The Indiana Fevers early season struggles continued on Tuesday with an 88-82 defeat to the Los Angeles Sparks, but Caitlin Clark produced her most scintillating performance so far.\r\nThe No. 1 overall… [+2524 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Singapore Airlines plane dropped 178ft in five seconds, black box data reveals - BBC.com",
+      "description": "Rapid changes in gravitational force caused the altitude drop which injured passengers, investigators say.",
+      "url": "https://www.bbc.com/news/articles/c9xx5pj095jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aca5/live/7219eca0-1d9c-11ef-baa7-25d483663b8e.jpg",
+      "publishedAt": "2024-05-29T09:46:41Z",
+      "content": "Thomas Mackintosh,Katy Austin\r\nWatch: How chaos onboard Singapore Airlines SQ321 unfolded\r\nEarly investigations into severe turbulence that hit a Singapore Airlines flight last Tuesday reveal it drop… [+3691 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "S.Korea accuses North of sending balloons with excrement across border - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-29T09:38:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": "Thomas Biesheuvel",
+      "title": "Anglo Won't Extend BHP Deadline, Threatening End to Takeover Bid - Bloomberg",
+      "description": "Anglo American Plc said it won’t give BHP Group any further time to commit to a takeover offer, threatening to end a $49 billion pursuit by the world’s biggest mining company.",
+      "url": "https://www.bloomberg.com/news/articles/2024-05-29/anglo-won-t-extend-bhp-deadline-threatening-end-to-takeover-bid",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izEeUzQOP1Zs/v0/1200x675.png",
+      "publishedAt": "2024-05-29T09:20:22Z",
+      "content": "Anglo American Plc said it wont give BHP Group any further time to commit to a takeover offer, threatening to end a $49 billion pursuit by the worlds biggest mining company. \r\nThe decision marks a dr… [+368 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "USA TODAY",
+      "title": "Is 2024 a record year for tornadoes? Data shows a busy, deadly spring. - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/news/weather/2024/05/29/is-2024-a-record-year-for-tornadoes/73875481007/",
+      "urlToImage": null,
+      "publishedAt": "2024-05-29T09:18:24Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "WSB Atlanta" },
+      "author": "WSBTV.com News Staff",
+      "title": "Stetson Bennett opens up for first time about stepping away from Rams last year - WSB Atlanta",
+      "description": "",
+      "url": "https://www.wsbtv.com/news/local/stetson-bennett-opens-up-first-time-about-stepping-away-rams-last-year/XJ4GJPF6V5DLLEALBNUN5BHN2Y/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/YTcxVchrHzJHWFJAR31gVQ6OrpI=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/HDLXPIU5WFR4R4JYJTZGWIHIIM.jpg",
+      "publishedAt": "2024-05-29T09:04:37Z",
+      "content": "LOS ANGELES — Former University of Georgia quarterback Stetson Bennett opened up for the first time about missing last season with the Los Angeles Rams.\r\nBennett did not play for the Rams during the … [+1586 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "The bird flu vaccine is made with eggs. That has scientists worried. - CBS News",
+      "description": "The spread of an avian flu virus in cattle has again brought public health attention to the potential for a global pandemic. Fighting it would depend, for now, on 1940s technology that makes vaccines from hens' eggs.",
+      "url": "https://www.cbsnews.com/news/bird-flu-vaccine-chicken-eggs-researching-alternatives/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/27/4bcf26fc-3c44-4a0d-bf4e-7657757344ad/thumbnail/1200x630/9777a1bdcfc1a4ad493602b6ebae0dcb/petaluma-avianflu-eggmovr.jpg?v=c5044be0004eac09882c007ac02fef6d",
+      "publishedAt": "2024-05-29T09:00:14Z",
+      "content": "Even a peep of news about a new flu pandemic is enough to set scientists clucking about eggs.\r\nThey worried about them in 2005, and in 2009, and they're worrying now. That's because millions of ferti… [+5924 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": "POLITICO",
+      "title": "Trump says he won't 'ban' birth control. Here's what he may do instead. - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/news/2024/05/29/trump-birth-control-contraception-00159555",
+      "urlToImage": null,
+      "publishedAt": "2024-05-29T09:00:00Z",
+      "content": null
+    }
+  ]
+}
